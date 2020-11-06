@@ -1,0 +1,5 @@
+{
+    "rewrites": [
+      {"source": "/accounting/:match*", "destination": "https://dingel.dev/accounting/:match*"}
+    ]
+  }
